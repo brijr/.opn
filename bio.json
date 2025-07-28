@@ -4,7 +4,7 @@
   "description": "Programming + Philosophy.",
   "style": {
     "theme": "light",
-    "font": "serif"
+    "font": "sans"
   },
   "sections": [
     {
@@ -12,22 +12,16 @@
       "type": "list",
       "items": [
         {
-          "title": "OPN ⬤",
-          "description": "Founder // Your open-source bio page.",
-          "url": "https://opn.bio",
-          "date": "2025–Present"
+          "title": "WIP",
+          "description": "Design and Development Studio",
+          "url": "https://wip.ac",
+          "date": "2024–Present"
         },
         {
-          "title": "MazeNet ☾",
-          "description": "Founder // Independent open-source studio.",
-          "url": "https://mznt.io",
-          "date": "2023–Present"
-        },
-        {
-          "title": "Philosophors ✱",
-          "description": "Founder // For those who seek wisdom.",
-          "url": "https://philosophors.com",
-          "date": "2021–Present"
+          "title": "9d8",
+          "description": "Software Engineering Studio",
+          "url": "https://9d8.dev",
+          "date": "2024–Present"
         }
       ]
     },
@@ -37,27 +31,15 @@
       "links": [
         {
           "title": "Website",
-          "url": "https://remvze.com"
+          "url": "https://bridger.to"
         },
         {
           "title": "GitHub",
-          "url": "https://github.com/remvze"
+          "url": "https://github.com/brijr"
         },
         {
           "title": "X (Twitter)",
-          "url": "https://x.com/remvze"
-        },
-        {
-          "title": "Bluesky",
-          "url": "https://remvze.bsky.social"
-        },
-        {
-          "title": "Threads",
-          "url": "https://threads.net/@remvze"
-        },
-        {
-          "title": "Telegram",
-          "url": "https://t.me/remvze"
+          "url": "https://x.com/bridgertower"
         }
       ]
     }
